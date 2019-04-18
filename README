@@ -1,0 +1,13 @@
+Cristiano Firmani
+
+All java files are found within the src > test > java folder. 
+
+The file used to generate data is 'GenerateData.py'. Once you run that, you will have to provide 
+the file path to where that csv file was created. 
+
+Run main to begin instructions.
+
+Urls used 
+
+https://stackoverflow.com/questions/15444982/how-to-display-or-print-the-contents-of-a-database-table-as-is
+https://www.callicoder.com/java-read-write-csv-file-apache-commons-csv/
