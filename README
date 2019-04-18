@@ -5,7 +5,7 @@ All java files are found within the src > test > java folder.
 The file used to generate data is 'GenerateData.py'. Once you run that, you will have to provide 
 the file path to where that csv file was created. 
 
-Run main to begin instructions.
+Run main to begin instructions. *You may have to remove the python file from the project directory for main.java to work if you are using intellij. 
 
 Urls used 
 
